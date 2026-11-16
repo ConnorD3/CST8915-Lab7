@@ -23,9 +23,9 @@ Azure Service Bus can solve the issues presented by RabbitMQ as message data can
 
 ## Acknowledgments
 
-*Amazon. (n.d.). What is amazon simple queue service? AWS. Retrieved https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html*
+Amazon. (n.d.). *What is amazon simple queue service?* AWS. Retrieved https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html
 
-*Larson, C. (2026, November 12). Redpanda as a RabbitMQ alternative. Redpanda. https://www.redpanda.com/blog/rabbitmq-alternative-redpanda-vs-rabbitmq*
+Larson, C. (2026, November 12). *Redpanda as a RabbitMQ alternative.* Redpanda. https://www.redpanda.com/blog/rabbitmq-alternative-redpanda-vs-rabbitmq
 
-*Microsoft. (2026, January 27). Reliability in azure service bus. Microsoft Learn. https://learn.microsoft.com/en-us/azure/reliability/reliability-service-bus*
+Microsoft. (2026, January 27). *Reliability in azure service bus.* Microsoft Learn. https://learn.microsoft.com/en-us/azure/reliability/reliability-service-bus
 
